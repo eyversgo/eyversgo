@@ -1,0 +1,12 @@
+{
+  "proyectos": [
+    {
+      "en": ["WORK 01: APPLE REBUILT", "(APPLE.COM CLONE, PRIVATE REPOSITORY)"],
+      "es": ["TRABAJO 01: APPLE REBUILT", "(CLON DE APPLE.COM, PRIVADO)"],
+      "url": "https://eyversgo.github.io/apple-rebuilt",
+      "imagen": "assets/apple-rebuilt.jpg",
+      "enlaces_en": [["https://eyversgo.github.io/apple-rebuilt", "WATCH THE DEMO"], ["https://eyversgo.github.io/contact", "REQUEST ACCESS"], ["https://eyversgo.github.io/", "PORTFOLIO"]],
+      "enlaces_es": [["https://eyversgo.github.io/apple-rebuilt", "VER LA DEMO"], ["https://eyversgo.github.io/contact", "PEDIR ACCESO"], ["https://eyversgo.github.io/", "PORTAFOLIO"]]
+    }
+  ]
+}

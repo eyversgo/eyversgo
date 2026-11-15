@@ -23,7 +23,7 @@ ecosystem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <b><a href="https://eyversgo.github.io/apple-rebuilt">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
 </samp></p>
 
-<p align="center"><a href="https://eyversgo.github.io/apple-rebuilt"><img src="assets/apple-rebuilt.jpg" alt="Apple Rebuilt home page" width="720"></a></p>
+<p align="center"><a href="https://eyversgo.github.io/apple-rebuilt"><img src="assets/apple-rebuilt.jpg" alt="Apple Rebuilt" width="720"></a></p>
 
 <p align="center"><sub><samp><a href="https://eyversgo.github.io/apple-rebuilt"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/"><b>PORTFOLIO</b></a></samp></sub></p>
 
