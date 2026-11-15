@@ -20,12 +20,12 @@ ecosystem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <p align="center"><samp>
 <b>PROJECTS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SELECTED&nbsp;WORK,&nbsp;LIVE&nbsp;ON&nbsp;GITHUB&nbsp;PAGES)</b><br><br>
 <b><a href="https://eyversgo.github.io/">WEB&nbsp;00:&nbsp;PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EYVERSGO.GITHUB.IO,&nbsp;HTML,&nbsp;CSS,&nbsp;JS)</b><br><br>
-<b><a href="https://eyversgo.github.io/apple-rebuilt/">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;REACT,&nbsp;TYPESCRIPT)</b>
+<b><a href="https://eyversgo.github.io/apple-rebuilt">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
 </samp></p>
 
-<p align="center"><a href="https://eyversgo.github.io/apple-rebuilt/"><img src="https://raw.githubusercontent.com/eyversgo/apple-rebuilt/main/assets/preview-home.png" alt="Apple Rebuilt home page" width="720"></a></p>
+<p align="center"><a href="https://eyversgo.github.io/apple-rebuilt"><img src="assets/apple-rebuilt.jpg" alt="Apple Rebuilt home page" width="720"></a></p>
 
-<p align="center"><sub><samp><a href="https://eyversgo.github.io/apple-rebuilt/"><b>LIVE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/eyversgo/apple-rebuilt"><b>REPOSITORY</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/"><b>PORTFOLIO</b></a></samp></sub></p>
+<p align="center"><sub><samp><a href="https://eyversgo.github.io/apple-rebuilt"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/"><b>PORTFOLIO</b></a></samp></sub></p>
 
 <br>
 
