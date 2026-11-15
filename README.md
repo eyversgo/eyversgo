@@ -20,12 +20,17 @@ ecosystem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <p align="center"><samp>
 <b>PROJECTS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SELECTED&nbsp;WORK,&nbsp;LIVE&nbsp;ON&nbsp;GITHUB&nbsp;PAGES)</b><br><br>
 <b><a href="https://eyversgo.github.io/">WEB&nbsp;00:&nbsp;PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EYVERSGO.GITHUB.IO,&nbsp;HTML,&nbsp;CSS,&nbsp;JS)</b><br><br>
-<b><a href="https://eyversgo.github.io/apple-rebuilt">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
+<b><a href="https://eyversgo.github.io/apple-rebuilt">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;PRIVATE&nbsp;REPOSITORY)</b><br><br>
+<b><a href="https://eyversgo.github.io/vetta">WORK&nbsp;02:&nbsp;VETTA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STRENGTH&nbsp;COACHING&nbsp;APP,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
 </samp></p>
 
 <p align="center"><a href="https://eyversgo.github.io/apple-rebuilt"><img src="assets/apple-rebuilt.jpg" alt="Apple Rebuilt" width="720"></a></p>
 
 <p align="center"><sub><samp><a href="https://eyversgo.github.io/apple-rebuilt"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/"><b>PORTFOLIO</b></a></samp></sub></p>
+
+<p align="center"><a href="https://eyversgo.github.io/vetta"><img src="assets/vetta.jpg" alt="Vetta" width="720"></a></p>
+
+<p align="center"><sub><samp><a href="https://eyversgo.github.io/vetta"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vettapp.web.app"><b>OPEN THE APP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a></samp></sub></p>
 
 <br>
 

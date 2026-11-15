@@ -1,12 +1,84 @@
 {
   "proyectos": [
     {
-      "en": ["WORK 01: APPLE REBUILT", "(APPLE.COM CLONE, PRIVATE REPOSITORY)"],
-      "es": ["TRABAJO 01: APPLE REBUILT", "(CLON DE APPLE.COM, PRIVADO)"],
+      "en": [
+        "WORK 01: APPLE REBUILT",
+        "(APPLE.COM CLONE, PRIVATE REPOSITORY)"
+      ],
+      "es": [
+        "TRABAJO 01: APPLE REBUILT",
+        "(CLON DE APPLE.COM, PRIVADO)"
+      ],
       "url": "https://eyversgo.github.io/apple-rebuilt",
       "imagen": "assets/apple-rebuilt.jpg",
-      "enlaces_en": [["https://eyversgo.github.io/apple-rebuilt", "WATCH THE DEMO"], ["https://eyversgo.github.io/contact", "REQUEST ACCESS"], ["https://eyversgo.github.io/", "PORTFOLIO"]],
-      "enlaces_es": [["https://eyversgo.github.io/apple-rebuilt", "VER LA DEMO"], ["https://eyversgo.github.io/contact", "PEDIR ACCESO"], ["https://eyversgo.github.io/", "PORTAFOLIO"]]
+      "enlaces_en": [
+        [
+          "https://eyversgo.github.io/apple-rebuilt",
+          "WATCH THE DEMO"
+        ],
+        [
+          "https://eyversgo.github.io/contact",
+          "REQUEST ACCESS"
+        ],
+        [
+          "https://eyversgo.github.io/",
+          "PORTFOLIO"
+        ]
+      ],
+      "enlaces_es": [
+        [
+          "https://eyversgo.github.io/apple-rebuilt",
+          "VER LA DEMO"
+        ],
+        [
+          "https://eyversgo.github.io/contact",
+          "PEDIR ACCESO"
+        ],
+        [
+          "https://eyversgo.github.io/",
+          "PORTAFOLIO"
+        ]
+      ]
+    },
+    {
+      "en": [
+        "WORK 02: VETTA",
+        "(STRENGTH COACHING APP, PRIVATE REPOSITORY)"
+      ],
+      "es": [
+        "TRABAJO 02: VETTA",
+        "(APP DE COACHING DE FUERZA, PRIVADO)"
+      ],
+      "url": "https://eyversgo.github.io/vetta",
+      "imagen": "assets/vetta.jpg",
+      "enlaces_en": [
+        [
+          "https://eyversgo.github.io/vetta",
+          "WATCH THE DEMO"
+        ],
+        [
+          "https://vettapp.web.app",
+          "OPEN THE APP"
+        ],
+        [
+          "https://eyversgo.github.io/contact",
+          "REQUEST ACCESS"
+        ]
+      ],
+      "enlaces_es": [
+        [
+          "https://eyversgo.github.io/vetta",
+          "VER LA DEMO"
+        ],
+        [
+          "https://vettapp.web.app",
+          "ABRIR LA APP"
+        ],
+        [
+          "https://eyversgo.github.io/contact",
+          "PEDIR ACCESO"
+        ]
+      ]
     }
   ]
 }
