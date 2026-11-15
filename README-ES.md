@@ -23,11 +23,7 @@ ecosistema&nbsp;de&nbsp;código&nbsp;abierto.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 <b><a href="https://eyversgo.github.io/vetta">TRABAJO&nbsp;02:&nbsp;VETTA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APP&nbsp;DE&nbsp;COACHING&nbsp;DE&nbsp;FUERZA,&nbsp;PRIVADO)</b>
 </samp></p>
 
-<p align="center"><a href="https://eyversgo.github.io/apple-rebuilt"><img src="assets/apple-rebuilt.jpg" alt="Apple Rebuilt" width="720"></a></p>
-
-<p align="center"><sub><samp><a href="https://eyversgo.github.io/apple-rebuilt"><b>VER LA DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>PEDIR ACCESO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/"><b>PORTAFOLIO</b></a></samp></sub></p>
-
-<p align="center"><a href="https://eyversgo.github.io/vetta"><img src="assets/vetta.jpg" alt="Vetta" width="720"></a></p>
+<p align="center"><a href="https://eyversgo.github.io/vetta"><img src="assets/vetta.jpg" alt="Vetta" width="480"></a></p>
 
 <p align="center"><sub><samp><a href="https://eyversgo.github.io/vetta"><b>VER LA DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vettapp.web.app"><b>ABRIR LA APP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>PEDIR ACCESO</b></a></samp></sub></p>
 
