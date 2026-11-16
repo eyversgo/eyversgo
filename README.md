@@ -21,13 +21,15 @@ ecosystem.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <b>PROJECTS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SELECTED&nbsp;WORK,&nbsp;LIVE&nbsp;ON&nbsp;GITHUB&nbsp;PAGES)</b><br><br>
 <b><a href="https://eyversgo.github.io/">WEB&nbsp;00:&nbsp;PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EYVERSGO.GITHUB.IO,&nbsp;HTML,&nbsp;CSS,&nbsp;JS)</b><br><br>
 <b><a href="https://eyversgo.github.io/apple-rebuilt">WORK&nbsp;01:&nbsp;APPLE&nbsp;REBUILT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(APPLE.COM&nbsp;CLONE,&nbsp;PRIVATE&nbsp;REPOSITORY)</b><br><br>
-<b><a href="https://eyversgo.github.io/vetta">WORK&nbsp;02:&nbsp;VETTA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STRENGTH&nbsp;COACHING&nbsp;APP,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
+<b><a href="https://eyversgo.github.io/vetta">WORK&nbsp;02:&nbsp;VETTAPRO</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(STRENGTH&nbsp;COACHING&nbsp;APP,&nbsp;PRIVATE&nbsp;REPOSITORY)</b>
 </samp></p>
 
-<p align="center"><a href="https://eyversgo.github.io/vetta"><img src="assets/vetta.jpg" alt="Vetta" width="480"></a></p>
+<p align="center"><a href="https://eyversgo.github.io/vetta"><img src="assets/vettapro.jpg" alt="VettaPro" width="480"></a></p>
 
-<p align="center"><sub><samp><a href="https://eyversgo.github.io/vetta"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vettapp.web.app"><b>OPEN THE APP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a></samp></sub></p>
+<p align="center"><sub><samp><a href="https://eyversgo.github.io/vetta"><b>WATCH THE DEMO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://vettapro.web.app"><b>OPEN THE APP</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/contact"><b>REQUEST ACCESS</b></a></samp></sub></p>
 
 <br>
 
 <p align="center"><sub><samp><a href="https://www.instagram.com/eyversgo/"><b>INSTAGRAM @EYVERSGO</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eyversgo.github.io/assets/cv/Eyver-Gomez-CV-EN.pdf"><b>CV</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cal.com/eyversgo/15min"><b>BOOK A CALL</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:eyversgo@gmail.com"><b>EMAIL</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/eyversgo"><b>GITHUB</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><a href="README-ES.md">ESPAÑOL</a></b></samp></sub></p>
+
+<p align="center"><a href="https://github.com/sponsors/eyversgo"><img alt="Sponsor" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff6984&link=https://github.com/sponsors/eyversgo"></a></p>

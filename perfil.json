@@ -42,22 +42,22 @@
     },
     {
       "en": [
-        "WORK 02: VETTA",
+        "WORK 02: VETTAPRO",
         "(STRENGTH COACHING APP, PRIVATE REPOSITORY)"
       ],
       "es": [
-        "TRABAJO 02: VETTA",
+        "TRABAJO 02: VETTAPRO",
         "(APP DE COACHING DE FUERZA, PRIVADO)"
       ],
       "url": "https://eyversgo.github.io/vetta",
-      "imagen": "assets/vetta.jpg",
+      "imagen": "assets/vettapro.jpg",
       "enlaces_en": [
         [
           "https://eyversgo.github.io/vetta",
           "WATCH THE DEMO"
         ],
         [
-          "https://vettapp.web.app",
+          "https://vettapro.web.app",
           "OPEN THE APP"
         ],
         [
@@ -71,14 +71,15 @@
           "VER LA DEMO"
         ],
         [
-          "https://vettapp.web.app",
+          "https://vettapro.web.app",
           "ABRIR LA APP"
         ],
         [
           "https://eyversgo.github.io/contact",
           "PEDIR ACCESO"
         ]
-      ]
+      ],
+      "alt": "VettaPro"
     }
   ]
 }
